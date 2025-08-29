@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "AVC NEO DEV"
-  text: "AVC NEO Platform Development"
+  name: "AVC NEO DEV DOC"
+  text: "AVC NEO Platform Development Documents"
   tagline: My great project tagline
   actions:
     - theme: brand
