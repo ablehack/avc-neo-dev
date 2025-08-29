@@ -1,5 +1,6 @@
 #!/bin/sh
 
-vitepress build docs &&
-mkdir -p dist &&
-cp -r docs/.vitepress/dist/* dist/
+vitepress build md &&
+mkdir -p docs &&
+cp -r md/.vitepress/dist/* docs/ &&
+echo "Docs updated successfully!"
